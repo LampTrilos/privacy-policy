@@ -1,9 +1,9 @@
 Privacy Policy
 
-Your App Name
+Daggertrack
 Effective date: 17/9/2025
 
-Our company operates the mobile application Your App Name (the "App").
+Our company operates the mobile application 'Daggertrack"
 
 Information Collection and Use
 
